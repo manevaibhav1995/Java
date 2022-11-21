@@ -1,0 +1,15 @@
+D:\C#\Assignment1\DemoApp\bin\Debug\net6.0\DemoApp.exe
+D:\C#\Assignment1\DemoApp\bin\Debug\net6.0\DemoApp.deps.json
+D:\C#\Assignment1\DemoApp\bin\Debug\net6.0\DemoApp.runtimeconfig.json
+D:\C#\Assignment1\DemoApp\bin\Debug\net6.0\DemoApp.dll
+D:\C#\Assignment1\DemoApp\bin\Debug\net6.0\DemoApp.pdb
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.dll
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\refint\DemoApp.dll
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.pdb
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\DemoApp.genruntimeconfig.cache
+D:\C#\Assignment1\DemoApp\obj\Debug\net6.0\ref\DemoApp.dll
