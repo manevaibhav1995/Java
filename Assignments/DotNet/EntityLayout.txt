@@ -1,0 +1,26 @@
+Department
+	Dno number  pk
+  	Dname string
+	Loc   string
+Employee
+	Eno number
+	Ename string
+	Sal   Double/Decimal
+	Age   number
+	Deptno number FK	
+
+Entities
+	Dept
+	 id
+	 Dname
+	 Loc
+	 NF => employees
+        Employee
+	 id
+	 Ename
+	 Sal
+	 Age
+	 DeptId
+=====================
+DBContext
+		 
